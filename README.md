@@ -1,11 +1,28 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+
+## Backend Repository
+
+This project is supported by a backend repository that handles additional server-side logic, database operations, and API endpoints.
+
+- **Repository Name:** [wave-one-api](https://github.com/Karrrar/wave-one-api)
+- **Description:** The backend repository provides APIs and database integration for the Wave One project. It ensures data persistence, user authentication, and other server-side functionalities.
+
+## Running the Api
+To run the backend API server, follow:
+
+```bash
+yarn dev
+```
+
+
 ## Getting Started
 
 First, install the dependencies:
 
 ```bash
-yarn add
+yarn
 ```
 
 Then, run the development server:
